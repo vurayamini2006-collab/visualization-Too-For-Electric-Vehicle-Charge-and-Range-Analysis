@@ -215,8 +215,11 @@ https://public.tableau.com/views/StoryofElectricCarsinIndia_17832669081640/Story
 # 👨‍💻 Developed By
 
 ## Team Members
+- **V. Yamini** – Team Lead
+- **Sk. Mymunisha** – Team Member
+- **Sk. Nishad** – Team Member
+- **Sk. Taslim** – Team Member
 
--
 **Department:** Electronics and Communication Engineering (ECE)
 
 **College:** Vignan's Lara Institute of Technology and Science
