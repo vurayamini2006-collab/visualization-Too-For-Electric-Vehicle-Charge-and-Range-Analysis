@@ -1,0 +1,1 @@
+dashboard and story links
